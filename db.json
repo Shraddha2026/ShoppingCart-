@@ -1,0 +1,70 @@
+{  
+    "product": [
+      {
+        "id":1,
+        "name":"Bliss_Cubes",
+        "description":"Handmade gifting is a way of expressing feeling and  emotions When a person receives a beautifully detailed handmade gifts its just left spellbound. Gifting handmade crafts is like to entrap all the beautiful moments at one place . Explosion Box are the perfect way to trap all those sweet memories that you’re going to cherish all your life .",
+        "imageUrl":"https://4.imimg.com/data4/AQ/SJ/ANDROID-63208187/product-500x500.jpeg",
+        "price": 100
+
+      },
+
+      {
+        "id":2,
+        "name":"Bliss_Cubes",
+        "description":"Handmade gifting is a way of expressing feeling and  emotions When a person receives a beautifully detailed handmade gifts its just left spellbound. Gifting handmade crafts is like to entrap all the beautiful moments at one place . Explosion Box are the perfect way to trap all those sweet memories that you’re going to cherish all your life .",
+        "imageUrl":"https://richimono.com/wp-content/uploads/2019/10/2E4BF27B-51D6-4D03-AF7B-30C14FDC8BB2.jpeg",
+        "price": 150
+
+      },
+
+      {
+        "id":3,
+        "name":"Bliss_Cubes",
+        "description":"Handmade gifting is a way of expressing feeling and  emotions When a person receives a beautifully detailed handmade gifts its just left spellbound. Gifting handmade crafts is like to entrap all the beautiful moments at one place . Explosion Box are the perfect way to trap all those sweet memories that you’re going to cherish all your life .",
+        "imageUrl":"https://images.template.net/wp-content/uploads/2016/04/07101533/Exploding-box-invitation.jpeg",
+        "price": 50
+
+      },
+
+      {
+        "id":4,
+        "name":"Bliss_Cubes",
+        "description":"Handmade gifting is a way of expressing feeling and  emotions When a person receives a beautifully detailed handmade gifts its just left spellbound. Gifting handmade crafts is like to entrap all the beautiful moments at one place . Explosion Box are the perfect way to trap all those sweet memories that you’re going to cherish all your life .",
+        "imageUrl":"https://homafy.com/wp-content/uploads/2019/10/PHOTO-2019-10-05-22-55-33-300x300.jpg",
+        "price": 200
+
+      },
+
+      {
+        "id":5,
+        "name":"Bliss_Cubes",
+        "description":"Handmade gifting is a way of expressing feeling and  emotions When a person receives a beautifully detailed handmade gifts its just left spellbound. Gifting handmade crafts is like to entrap all the beautiful moments at one place . Explosion Box are the perfect way to trap all those sweet memories that you’re going to cherish all your life .",
+        "imageUrl":"https://i.pinimg.com/236x/d3/3c/27/d33c277db4446d9f07d5f78a69dbd12d.jpg",
+        "price": 100
+
+      }
+
+    ],
+    "wishlist": [],
+
+    "carts":[],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
